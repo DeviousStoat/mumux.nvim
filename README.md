@@ -30,7 +30,7 @@ Will open `/path/to/my/file` in a new neovim instance in a horizontal tmux pane
 :VMumux /path/to/my/file
 ```
 
-Will open `/path/to/my/file` in a new neovim instance in a horizontal tmux pane
+Will open `/path/to/my/file` in a new neovim instance in a vertical tmux pane
 
 You can add a `bang` (`:Mumux!`) to make the new tmux pane a proper shell
 eg. if you use `:Mumux` you get a new neovim instance but once you close it
